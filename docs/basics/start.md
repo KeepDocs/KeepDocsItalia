@@ -24,8 +24,8 @@ I token bloccati vengono delegati dal proprietario di KEEP all'indirizzo dell'op
 ?> Checkout latest version of this document in english [here](https://keepdocs.github.io/#/).
 
 ---
-`Fonte dalla documentazione ufficiale di Keep Team, modificata e aggiunta dalla comunità. "[Fonte] (https://keep-network.gitbook.io/staking-documentation/)"
+`Fonte dalla documentazione ufficiale di Keep Team, modificata e aggiunta dalla comunità.` [Fonte](https://keep-network.gitbook.io/staking-documentation/)
 
-ʻAutori: Ramaruro, EstebanK`
+`Autori: Ramaruro, EstebanK`
 
 `Traduzione: weraanrktl#7699`
