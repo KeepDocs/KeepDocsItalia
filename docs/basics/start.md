@@ -20,8 +20,12 @@ I token bloccati vengono delegati dal proprietario di KEEP all'indirizzo dell'op
 - [Varianti di nodi:] (Node-Operation / intro-operation.md) Avvia, gestisci, risolvi i problemi sul tuo nodo.
 - https://dashboard.keep.network/ Dashboard ufficiale di Keep Network.
 
+
+?> Checkout latest version of this document in english [here](https://keepdocs.github.io/#/).
+
 ---
 `Fonte dalla documentazione ufficiale di Keep Team, modificata e aggiunta dalla comunità. "[Fonte] (https://keep-network.gitbook.io/staking-documentation/)"
 
 ʻAutori: Ramaruro, EstebanK`
+
 `Traduzione: weraanrktl#7699`
