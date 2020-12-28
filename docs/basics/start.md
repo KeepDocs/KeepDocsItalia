@@ -1,4 +1,4 @@
-! [Introduzione] (/ assets / images / keepdocgraf.jpg)
+![Introduzione](/assets/images/keepdocgraf.jpg)
 
 
 # All'inizio
@@ -12,12 +12,12 @@ I token bloccati vengono delegati dal proprietario di KEEP all'indirizzo dell'op
 
 ## Contenuti
 
-- [Introduzione:] (basi / intro.md): Introduzione a Keep Network e tBTC.
-- [Motivi principali per puntare su Keep Network:] (Reasons / reason.md) Comprendi perché ha senso scommettere su Keep Network.
-- [Confronto con alternative:] (comparazione / comparazione.md) Confronta Keep Staking con le alternative attualmente disponibili in criptovaluta.
-- [Documentazione sullo staking:] (stakingdoc / keep101.md) Conserva la documentazione ufficiale del Team sullo staking.
-- [Opzioni di staking:] (stakingdoc / stakingoptions.md) Con i partner o sul tuo server (nodo).
-- [Varianti di nodi:] (Node-Operation / intro-operation.md) Avvia, gestisci, risolvi i problemi sul tuo nodo.
+- [Introduzione:](basi/intro.md): Introduzione a Keep Network e tBTC.
+- [Motivi principali per puntare su Keep Network:](Reasons/reason.md) Comprendi perché ha senso scommettere su Keep Network.
+- [Confronto con alternative:](comparazione/comparazione.md) Confronta Keep Staking con le alternative attualmente disponibili in criptovaluta.
+- [Documentazione sullo staking:](stakingdoc/keep101.md) Conserva la documentazione ufficiale del Team sullo staking.
+- [Opzioni di staking:](stakingdoc/stakingoptions.md) Con i partner o sul tuo server (nodo).
+- [Varianti di nodi:](Node-Operation/intro-operation.md) Avvia, gestisci, risolvi i problemi sul tuo nodo.
 - https://dashboard.keep.network/ Dashboard ufficiale di Keep Network.
 
 
